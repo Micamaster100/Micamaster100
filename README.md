@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hello there, fellow human. I'm Micamaster100! Otherwise known as M100.
+Owner of M100 Studios and Beyond.
+
+- 🔭 I’m currently working on beyond and Quiz app cheats (Kahoot, etc)
+- 🌱 I’m currently learning 8th grade and Roblox game developing
+- 👯 I’m looking to collaborate on Roblox games.
+- 🤔 I’m looking for help with modeling, although not the best avaiable right now...
+- 💬 Ask me about my repositories and a bunch of other stuff
+- 📫 How to reach me: @Micamaster100#4706 or m100isgamer@gmail.com
+- 😄 Pronouns: He/Him They/Them
+- ⚡ Fun fact: i exist...
+
+imma add more stuff later maybe.
+
+*If you haven't realized, I just copied the special repository comment from the "tutorial"*
 
 <!--
 **Micamaster100/Micamaster100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
