@@ -1,14 +1,8 @@
-### Hello there, fellow human. I'm Micamaster100! Otherwise known as M100.
-Owner of M100 Studios and Beyond.
+# Hello there I'm Micamaster100! Otherwise known as M100.
+Owner of M100 Studios and other cool stuff!
 
-- 🔭 I am a Roblox developer and i do stuff.
-- 🌱 Summer Break!!
-- 👯 I’m looking to collaborate on Roblox games.
-- 🤔 I’m looking for help with modeling, although not the best avaiable right now...
-- 💬 Ask me about my repositories and a bunch of other stuff
-- 📫 How to reach me: @Micamaster100 or m100isgamer@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: i forgor 💀
+Here is a list of my useful stuff:
+imma dd that later
 
 imma add more stuff later maybe.
 
