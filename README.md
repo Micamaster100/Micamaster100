@@ -6,9 +6,7 @@ imma dd that later
 
 imma add more stuff later maybe.
 
-*If you haven't realized, I just copied the special repository comment from the "tutorial"*
-
-<!-- Which is here lol
+<!-- 
 **Micamaster100/Micamaster100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
